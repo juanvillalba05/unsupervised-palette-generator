@@ -34,7 +34,7 @@ The method successfully extracts coherent and aesthetically representative palet
 
 ## How to run
 ```bash
-git clone https://github.com/juanvillalba05/color-palette-generator-kmeans
+git clone https://github.com/juanvillalba05/unsupervised-palette-generator
 cd color-palette-generator-kmeans
 pip install -r requirements.txt
 jupyter notebook
